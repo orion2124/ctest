@@ -5,4 +5,4 @@ $ git branch
 $ git branch name
 $ git checkout name
 
-master
+branch
