@@ -4,3 +4,5 @@ $ git checkout -b feature
 $ git branch
 $ git branch name
 $ git checkout name
+
+master
